@@ -1,0 +1,4 @@
+name: uuid_generator
+description: A very complex console app printing a random UUID.
+dependencies:
+  uuid: ^2.0.4
